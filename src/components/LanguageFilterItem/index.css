@@ -1,0 +1,28 @@
+/* Write your CSS here */
+* {
+  box-sizing: border-box;
+}
+.filter-list-item-container {
+  margin-right: 20px;
+  list-style: none;
+}
+.normal-btn {
+  color: #0f172a;
+  background-color: transparent;
+  border: none;
+  font-size: 12px;
+  font-weight: 600;
+  font-family: roboto;
+  cursor: pointer;
+}
+.customize-btn {
+  color: #0284c7;
+  border: #0284c7 1px solid;
+  border-radius: 5px;
+  background-color: transparent;
+  font-size: 12px;
+  font-weight: 600;
+  font-family: roboto;
+  padding: 5px;
+  cursor: pointer;
+}

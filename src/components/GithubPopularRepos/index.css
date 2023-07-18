@@ -1,0 +1,31 @@
+/* Write your CSS here */
+.popular-repo-bg-container {
+  padding: 20px;
+  text-align: center;
+}
+.heading-filter-list-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+}
+.popular-heading {
+  color: #0f172a;
+  font-family: Lobster;
+  font-size: 20px;
+  margin-bottom: 20px;
+}
+.filter-list-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-left: 0px;
+  margin-bottom: 20px;
+}
+.repo-list-container {
+  padding: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
